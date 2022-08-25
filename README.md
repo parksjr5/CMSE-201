@@ -1,6 +1,6 @@
-# CMSE-201
+# CMSE-201 Final Project
 
-Work from Fall 2021, CMSE 201: Introduction to Python and Modules
+Fall 2021, CMSE 201: Introduction to Python and Modules
 
 Modules Covered: matplotlib, pandas, numpy, math, seaborn
 
