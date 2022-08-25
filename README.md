@@ -1,4 +1,4 @@
-# CMSE-201 Final Project
+# CMSE-201 Individual Final Project
 
 Fall 2021, CMSE 201: Introduction to Python and Modules
 
