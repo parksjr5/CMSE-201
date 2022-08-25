@@ -3,4 +3,6 @@ Work from Fall 2021, CMSE 201  Computational Modeling and Data Analysis I
 
 Introduction to Python and Modules
 
-Modules Covered: matplotlib, pandas, numpy, math
+Modules Covered: matplotlib, pandas, numpy, math, seaborn
+
+Skills: mathematical models, data cleaning, data visualization
